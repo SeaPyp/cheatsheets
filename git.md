@@ -10,3 +10,7 @@ init - creates a git repo for folder
 pull - 
 clone - 
 checkout - view a particular snapshot version
+
+Random stuff added
+
+More random stuff added
