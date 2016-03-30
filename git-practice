@@ -1,0 +1,6 @@
+git push orign master
+	The above code is what you use to push your changes back into the branch/fork on github.  This would be after you have "git add" and "git commit"
+
+once you have "forked" and copied a repo to clipboard, you type the line:
+	git clone (Paste in URL here)
+

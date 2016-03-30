@@ -1,0 +1,37 @@
+#CHEATSHEET
+
+##Terminal
+Commands
+*tree .* - Gives a visual representation of how your folder is structured
+  
+
+
+git and gitHub flow and line code:
+![Matts diagram](https://ga-students.slack.com/messages/wdi-sm-22/)
+
+
+
+##Programming Cheats
+###HTML
+This is a language that your browser reads.  CSS tells the browser how to display it
+If you create an index.html file and open it in Sublime Text - type HTML and push tab to add the boiler plate
+
+Inline CSS (try not to use this in class or projects)
+This affects one element in your code
+Internal CSS
+This gets used on a one page website
+External CSS
+Create an external CSS sheet that you link your HTML to
+
+An Ordered List (ol) is a list with numbers next to it:
+1. Bob
+2. Eric
+3. Sean
+
+An Unordered list (ul), just has bulletsnext to it
+<ul>
+    <li>Bob</li>
+    <li>Eric</li>
+    <li>Sean</li>
+</ul>
+

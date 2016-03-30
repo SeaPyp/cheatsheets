@@ -1,0 +1,28 @@
+github protocols
+on github
+make new or use existing repoterminal
+cd to code/wdi
+mkdir
+cd to that directory
+and then touch file
+git init
+git status. nothing to commit
+git add file
+git commit -m "add file"
+git remote -v. if nothing happens
+git remote add origin /* copy repo link here */
+git remote -v //should show a fetch and pull
+git push origin master. error, then do:
+git pull origin
+git push origin master
+git pull origin master
+git push origin master
+check github in that repo
+
+If you create a git repo in your home directory, use the following command to remove it:
+rm -rf .git
+Typed in the directory where you created the git
+
+If you need to change or remove a GitHub origin repo:
+git remote remove origin  
+Typed in the file that you "git init" the file
